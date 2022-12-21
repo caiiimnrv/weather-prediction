@@ -1,2 +1,9 @@
 # weather-prediction
-Weather Prediction Using Multiple Machine Learning Classifier Models
+
+This is the Final Project repository for the course of CCS 248: Artificial Neural Networks
+
+Title: Weather Prediction Using Multiple Machine Learning Classifier Models
+
+In this study, the researchers have implemented three (3) machine learning classifier algorithms
+namely Logistic Regression, Gaussian Naive Bayes, and Random Forest to predict the weather type 
+using precipitation, maximum and minimum temperature, and wind levels.
